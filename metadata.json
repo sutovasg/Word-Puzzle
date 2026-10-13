@@ -1,0 +1,6 @@
+{
+  "name": "Word Clue Puzzle",
+  "description": "A polished browser puzzle game with visual and verbal clues across four difficulty tiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
